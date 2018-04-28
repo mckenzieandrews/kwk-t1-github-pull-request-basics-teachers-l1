@@ -1,4 +1,4 @@
-# Github Pull Request Basics
+git checkout master# Github Pull Request Basics
 
 ## Objectives:
 
