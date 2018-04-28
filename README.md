@@ -55,7 +55,7 @@ fingers will both grasp what's going on.
    To do so you will...
 4. Clone from **your** fork to your computer. There's no reason you _couldn't_
    clone from the _original_ repo. However, most repo owners don't want random
-   people on the Internet (that's you!) committing to their repo. What you're
+   people on the Internet committing to their repo. What you're
    going to do is establish a "parallel" repo in _your_ org and then tell the
    "source" repo "Hey, I added something awesome, I'm requesting that you _pull_
    it in."
